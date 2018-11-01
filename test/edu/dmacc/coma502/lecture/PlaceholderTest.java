@@ -1,0 +1,14 @@
+package edu.dmacc.coma502.lecture;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PlaceholderTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
